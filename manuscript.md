@@ -1,29 +1,15 @@
 ---
 title: The Issues with Journal Issues
-author:
-  - C. Sean Burns, University of Kentucky, School of
-    Information Science, sean.burns@uky.edu
+author: C. Sean Burns
 date: 2022-12-25
 keywords: [digital publishing, journals]
 ---
-
-Outline:
-
-- Introduction
-- The Journal Issue
-  - Scarcity
-  - Bibliographic Record
-- Solutions
-  - Digital Libraries
-  - Journals Integrating Workflows
-- Conclusion
-- References
 
 # Introduction
 
 Science depends on a communication system.
 The internet and the web provide the infrastructure
-and tools to support aht communicative system.
+and tools to support that communicative system.
 Yet despite that they have played a developing role
 as a communicative system in the last thirty years,
 they have not truly changed
@@ -218,7 +204,7 @@ When space is limited
 (available print pages per year),
 i.e., a journal has page constraints to consider,
 then its real estate becomes,
-by this constraint, prized. 
+by this constraint, prized (@W28UHWAI#piller22). 
 
 Journal-based metrics,
 such as the *Journal Impact Factor (JIF)*,
@@ -269,8 +255,9 @@ Bundling by journal issue has had ramifications
 on how bibliographic records and information retrieval.
 Journals that continue to publish hard copy,
 and therefore, publish by issue,
-publish articles as online first,
-or similarly named, articles.
+publish articles as online first or ahead-of-print,
+or similarly named, articles,
+and think this is satisfactory (@W28UHWAI#piller22).
 These online first articles become attached
 to journal issues at some point in their future,
 usually when the journal has caught up with
@@ -330,7 +317,7 @@ we showed that a paper
 on cancer made available "online first" in 2015
 was not assigned to a journal issue until 2019.
 The online first version of the paper was
-available in PubMED soon after it was available
+available in PubMed soon after it was available
 on the journal's website as an online first article,
 but the four year delay to assign the paper to an issue
 meant that the paper was not available in PubMed MEDLINE
@@ -352,7 +339,7 @@ these records were largely fixed.
 Because many journals,
 especially those that continue to print hard copy,
 try to have it both ways (print and digital workflows),
-the result is overcomplicated searching.
+the result is over complicated searching.
 This kind of complication is strictly the result of
 cross-walking a print-based workflow onto
 a digital-based workflow.
@@ -388,263 +375,163 @@ after the web started and that do not print issues.
 
 Literature is discovered today largely through
 general and specialized search engines,
-bibliographic databases, and social media.
+bibliographic databases,
+and social media [@BBQSSXP9#burns13].
 Few people, it seems, discover new research
-by perusing the table of contents, which, again,
+by perusing the table of contents, which again,
 are themselves ordered by when articles are
 ready to publish, and not ordered thematically.
 Although websites exist that collate articles by topic,
 there is no reason for journals to
 continue the practice of creating tables of contents.
+It is a fundamentally poor way to
+collect and organize information,
+especially for journals that are completely digital.
+
 Instead, digital journals can create and curate
 exhibitions and collections.
-Articles can be assigned to multiple exhibitions
-and collections based on their
-main and secondary topics.
-By changing this practice,
+They can become true digital libraries.
+Digital libraries have the advantage of offering
+multiple ways to organize and classify the works
+in their collections, and
+this creates opportunities to forge and design
+web interfaces that match those collections [@HKNRR9KR#pomerantz07].
+For example, articles can be assigned to
+multiple exhibitions and collections based
+on their main and secondary topics.
+By changing to this practice,
 journals could increase search engine
 discoverability and foster browsing and perusal.
+Browsing and perusal have long been just as important
+parts of information retrieval as information search has
+been [@ADY7ARVY#bush45h; @R3I5GWL2#lesk12].
+
 In short, journal websites could function
 as true digital libraries instead of mimicking
-hard copy journal issues.
-The digital era offers better ways to bundle
-articles than simply by when they are ready to publish.
-Journal issues bundle articles largely when they
-are ready to publish.
-Unless they are special issues on a topic,
-journal issues are not bundled based on a theme.
-The digital era offers us the ability to create
-true digital libraries instead of volumes and issues.
-Digital libraries could bundle articles by theme,
-could create exhibits of journal articles.
-Just as librarians are able to assign multiple
+the format and practices of hard copy journal issues.
+Just as librarians may assign multiple
 subject headings, and thereby access points,
 to works,
 journal articles could be placed in multiple
-exhibits, thereby increasing the number of
+exhibits and collections,
+thereby increasing the number of
 access points and discovery.
 This becomes a matter of curation rather
 than simple bundling based on a first-in,
 first-out print based model.
+Even for journals that still need to
+print hard copy,
+it is still possible for them to give
+primacy to a digital workflow rather
+than a print workflow.
 
-IN THE PRINT ERA, A SCIENTIST'S OUTPUT WAS OFFICE ORIENTED
-(SEE HEALY ON THIS).
+We might conclude that many journals,
+as products of the print era or
+as adopters of print workflows,
+as most continue to exist today,
+are themselves obsolete.
+The future of scientific publishing could
+be based on curating and creating digital libraries
+of scientific and other scholarly output.
+Other improvements can be made, too.
+Articles themselves can be re-evaluated.
+Many journals to this day publish tables
+as PDF, JPG, or PNG files,
+which makes them largely inaccessible to
+data extraction.
+Journals could develop better relationships
+with pre-print archives and establish
+a chain of providence that links pre-prints
+to their peer-reviewed outputs.
+Other outputs could be more obviously connected
+to journal articles,
+such as data journals and
+computational notebooks [@LU43KXNS#perkel18].
+Acceptance rates could become a thing of
+the past since space, theoretically, is unlimited,
+as the journal *eLife* is exploring [@DJH4SHN5#else22].
 
-IN THE DIGITAL ERA, A SCIENTIST IS CONNECTED, IS ONLINE,
-CONDUCTS THEIR WORK ONLINE, INTERACTS WITH OTHERS ONLINE,
-AND SO FORTH. tHE DIGITAL ERA IS FRIENDLY TO THE SCIENTIST'S
-WORKFLOW. aLSO, RECOGNIZE THAT THERE ARE LIMITATIONS WITH
-THIS, SOCIAL, ECONOMIC, ETC
-
-SCIENCE COMMUNICATION IN THE DIGITAL REALM CAN ENCOMPASS
-THAT ENTIRE WORKFLOW AND NOT ONLY THE PRIMARY OUTPUT -- THE
-SCIENTIFIC PAPER.
-
-- highlighting the scientific workflow enables us to query
-  the fundamentals of science
-- this is evident in the open science movement and offers
-  the ability to test fundamental assumptions about science,
-  scientific reproducibility, and scientific replication
-  (relatively) small sample statistics is a good example
-
-THERE ARE EFFORTS UNDERWAY TO CAPTURE MORE OF THAT WORKFLOW,
-AND THESE EFFORTS VARY BY DISCIPLINE
-
-BUT REGARDLESS OF THE SPECIFIC EFFORTS, MOST JOURNALS STILL
-EXIST AS SILOS TO THESE WORKFLOWS.
-
-POINT: BUT ALSO, SCIENTIFIC WORKFLOWS HAVE CHANGED
-IN THE DIGITAL ERA, AND JOURNALS
-HAVE BEEN SLOW TO RECOGNIZE AND INCORPORATE THESE
-WORKFLOWS INTO THEIR PUBLISHING IN WAYS THAT DO
-NOT MIMIC SCIENTIFIC WORKFLOWS IN THE PRINT ERA.
-
-1. Goal additional: publish HTML only. Include an ability to print to
-   PDF or a print-focused CSS style sheet. Stop publishing tables as
-   images. The data should be parsable by software.
-
-2. Goal additional: make information extractable generally by software.
-   The paper itself should be a source of data (for computer programs)
-   and not just a source of information (for people).
-
-
-
-Goal: for scholarly publishing to become fully digital, it
-needs to be proactive. It needs to focus on design and
-research based on scholarly publishing, including
-bibliometrics, information retrieval, information seeking,
-access, etc. It needs to stop being reactive. It needs to
-stop acting as if it was born from a print age. It needs to
-act as if was born digital.
-
-Goal revised: get rid of issue based publishing (although
-there are a number of other things to do
-
-HOWEVER, THE DIGITAL REALM OFFERS AFFORDANCES THAT COULD
-BENEFIT SCIENCE COMMUNICATION.
-
-- Web paradigm A) Introduction of PloS One in 2003
-  - Most journals today are still bound by the print
-    paradigm
-  - PloS One and later megajournals have been able to free
-    themselves of that paradigm a) articles are published as
-    they become ready b) move from a journal centric
-    publication model to a article centric publication model
-    c) talk about table B) Web paradigm also frees journals
-    to experiment with different parts of the scientific
-    process
-  - open peer review a) pit two theoretical frameworks
-    against each other:
-           - assumption: science "conceived of as a system
-             of communication" (Merton)
-           - social constructivism (fuzzy authorship) versus
-             the normative view of science (strong
-             authorship but communism)
-           - fuzzy versus strong authorship raises
-             epistemological issues about author
-             contributions b) better view of the scientific
-             workflow
-  - blogging, and other social computing activities, as a
-    certified part scientific communication process
-  - dissemination of pre-prints to subject and institutional
-    repositories
-  - dissemination of code to code repositories and managers,
-    such as GitHub
-  - dissemination of supplementary and non-textual
-    artifacts, such as on Figshare
-  - collaborative and open view editing of scientific
-    manuscripts
-    - better view has enabled better tracking
-      - the first instinct was to track for impact (e.g.,
-        altmetrics)
-      - but the better view has the potential to offer
-        increased insight into knowledge creation and
-        management d) additional implications include:
-      - decentralization of scholarly power (controlled
-        study paper—Merton effect; information retrieval) e)
-        better view should enable better codification of
-        knowledge required to conduct science
-      - with increased access to how people do science,
-        there should be increased access to documenting the
-        scientific workflow
-
-THESE AFFORDANCES BEGIN NOT WITH THE OUTPUT, E.G., THE
-JOURNAL ARTICLE, AS MOST PUBLISHERS HAVE FOCUSED ON, BUT
-WITH THE ENTIRE SCIENTIFIC WORKFLOW.
-
-IN THE PRINT ERA, A SCIENTIST'S WORKFLOW WAS PREDOMINANTLY
-CAPTURED IN THE FINAL OUTPUT, THE SCIENTIFIC PAPER (OF
-COURSE, POSTERS, TALKS, ETC EXISTED, BUT STILL, THE OUTPUT
-WAS LIMITED).
-
-
-
-ERGO, WE MIGHT CONCLUDE, THAT JOURNALS, A PRODUCT OF THE
-PRINT ERA, AS MOST CONTINUE TO EXIST TODAY, ARE THEMSELVES
-OBSOLETE.
-
-THE FUTURE OF SCIENTIFIC PUBLISHING COULD BE BASED ON
-PORTFOLIOS AND DIGITAL LIBRARIES. WHEN I FIRST HEARD OF PLOS
-ONE AND PEERJ, I THOUGHT THAT WAS WHERE SUCH PUBLISHERS WERE
-HEADED, BUT MORE CAN BE DONE.
-
-- Publishing:
-  - publish as-ready instead of by issue or volume; the acceptance rate
-    could be redefined and possible raised since it would no longer be
-    based on the budget a journal has to publish in print (stop
-    publishing in print); could increase the speed of publication 
-  - by detaching from printing, no longer desk rejecting by word count
-    or length of paper
-- Paper:
-  - make HTML only
-  - make paper a source of data
-  - tables should be HTML tables and not images of tables
-  - statistical information should be extractable programmatically
-- Emded metadata in HTML; use semantic HTML5
-- Paper as unit should be archivable; should be self-contained
-  - no part of the published web page that a paper is on should rely on
-    other technologies to display; everything needed to display the page
-    should be on the single page
-- Relationship with preprint archives? Follow chain of providence? For
-  example, in my PLOS ONE article, there's no connection, even though
-  I remember the process stating there would be, to the PLOS ONE article
-  and the prepint on bioArxiv.
-
-THE FUTURE OF SCIENTIFIC PUBLISHING FROM THE SCIENTIST'S
-PERSPECTIVE, A SERIES OF TOOLS THAT DO ONE THING AND DO ONE
-THING WELL.
-
-THESE TOOLS COULD ACT AS PIPES THAT REDIRECT OUTPUT,
-AUTOMATICALLY, TO OTHER TOOLS FOR VARIOUS SORTS OF
-PROCESSING.
-
-Things to take advantage of the digital:
-
-categorize these:
-
-- no multiple publishing dates
-- HTML primacy
-- the ability to extra data from articles,
-    - including references
-    - tables
-    - figures/plots
-    - text
-    - statistics
-
-make the article a true data source. not just a source for
-reading, but a source that is machine readable
-
-- semantic data in each article
-    - html semantic
-    - linked data semantic
-
-- don't require Microsoft Word
-    - allow multiple formats if formats have standards that are open
-
-- allow greater interoperability
-    - copyright prevents lots of interoperability
-
-EACH OUTPUT ALONG THE WAY WOULD HAVE A PERSISTENT IDENTIFIER
-AND COULD BE OPEN (AT SOME POINT WHEN READY).
-
-THE 'FINAL' PRODUCT COULD BE A FINAL WRITE-UP OR PRESENTATION
-INSTEAD OF A 'PAPER' (WHAT ELSE RINGS OF THE PRINT REALM
-MORE THAN THE WORD 'PAPER' FOR AN ARTICLE).
-
-The Journal as a Digital Library
-
-GET RID OF ARTICLES. CREATE PIPELINES. ALL PARTS OF THE
-WORKFLOW CAN BECOME INTERCONNECTED.
-
-SUCH A SYSTEM WOULD BE TRULY KNOWLEDGE PRODUCING.
-
-
+In summary,
+journals could start imagining themselves
+as part of the larger scholarly web,
+which itself was designed to be interconnected,
+instead of designing their sites as
+silos that consider the journal article
+as the final, definitive, end product.
+Current scholarly publishing is
+woefully outdated and remains loyal
+to print era workflows and processes.
+By embracing the digital,
+we can multiple publishing dates,
+give primacy to HTML output,
+make articles sources of data
+(machine readable) and
+not simply sources for reading,
+create greater interoperability,
+eliminate the requirement to submit
+manuscripts as word processing files [@LBXUS5ZD#healy19].
+With these and other improvements,
+such a system would be truly knowledge producing.
 
 # Conclusion
 
-What best serves scholarly communication? Or the
-dissemination of scholarly output? Does our current system
-support what is best? How does 'what is best?' vary by
-discipline?
+Science depends on a communication system, and
+the current communication system is largely
+based on the internet and the web.
+Despite that, much of scholarly publishing
+continues to function as if it were still
+the print era.
+This is evident in the way journals
+continue to publish, for example,
+by bundling articles into journal issues.
+A host of problems arises from this that
+impacts what journals publish,
+how metrics are calculated,
+how acceptance rates became prestige markers, and
+how information is organized and retrieved.
 
-There are two problems with the current system. First, it
-just happened. That is, it was not designed. There was no
-evidence to support how it developed. It was simply based on
-existing technologies and workflows for communicating
-information. Second, the way it happened was shaped by the
-affordances of the technology of the time, which were
-print-based affordances.
+I offered several solutions to improve
+the way science and scholarship is published.
+My goal is to foster discussion since
+actual solutions depend on the needs of the
+community and not on the desiderata of
+any specific individual.
+However, I do believe that my main solution,
+re-conceiving the journal as a digital library,
+is more aligned with what the internet and
+the web affords and that continuing to apply
+print era workflows and practices to scholarly
+publishing is harmful.
 
-When digital publishing became available, the affordances
-offered by print could be copied over to the online system
-because an online system can encompass and include
-print-based affordances. But digital publishing can afford
-much more, and it is a result of our lack of collective
-imagination to adopt these new affordances as well as
-institutional pressures, like tenure and grant funding, and
-self-interest, like number of papers published and number of
-citations received and number of "high impact" journals to
-publish in, and market forces, that do not incentive
+In the end, solutions must be rational, evidence-based,
+and solved collectively.
+The internet and the web have been disruptive, and
+the transition to digital publishing has
+been slow and left to individual entities to make progress.
+The rush to publish may leave us un-reflective on
+our practices,
+and I sincerely believe that we should be always asking
+ourselves some basic questions:
+What best serves scholarly communication?
+Or the dissemination of scholarly output?
+Does our current system support what is best?
+How does 'what is best?' vary by discipline?
+
+When digital publishing became available,
+the affordances offered by print could be
+copied over to the online system
+because an online system can encompass and
+include print-based affordances.
+But digital publishing can afford much more,
+and it is a result of our lack of collective
+imagination to adopt these new affordances
+as well as institutional pressures,
+like tenure and grant funding, and
+self-interest,
+like number of papers published,
+number of citations received, and
+number of "high impact" journals to publish in,
+and market forces, that do not incentive
 journal publishers to adopt what's best for science,
 to keep doing the same thing we did in the 19th
 and 20th centuries.
