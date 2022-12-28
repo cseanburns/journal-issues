@@ -13,7 +13,7 @@ abstract: |
   peer-reviewed journals continue to mimic workflows
   and processes from the print era. This paper focuses on
   one artifact from the print era, the journal issue,
-  and describes how this artifact has been detrimental
+  and describes how this artifact has been detrimental to
   the communication of science and therefore to
   science itself. To replace the journal issue,
   this paper argues that scholarly publishing and journals
@@ -27,7 +27,7 @@ abstract: |
 Science depends on a communication system.
 The internet and the web provide the infrastructure
 and tools to support that communicative system.
-Yet despite that they have played a major role
+Yet despite the fact that they have played a major role
 as a communicative system in the last thirty years,
 they have not truly changed
 how peer-reviewed publishing works.
@@ -62,7 +62,8 @@ Many journals,
 even ones that are completely digital or
 were born digital,
 continue to publish journal issues.
-This is despite that the journal issue was a
+This is despite the fact that
+the journal issue was a
 device used to bundle journal articles
 for hard copy printing.
 Printing hard copy journal articles as
@@ -232,7 +233,7 @@ When space is limited
 (available print pages per year),
 i.e., a journal has page constraints to consider,
 then its real estate becomes,
-by this constraint, prized (@W28UHWAI#piller22). 
+by this constraint, prized [@W28UHWAI#piller22]. 
 
 Journal-based metrics,
 such as the *Journal Impact Factor (JIF)*,
@@ -268,7 +269,7 @@ If journals increase their publication output
 by eliminating journal issues and
 not controlling acceptance rates based on print constraints,
 then their JIF scores will drop.
-This may be why why journals keep producing hard copy
+This may be why journals keep producing hard copy
 even if it is no longer necessary, or
 continue to bundle articles into issues [@3RZPSVH3#swoger].
 Controlling scarcity has had a major impact
@@ -308,7 +309,7 @@ be years.
 These dates are recorded in the bibliographic record,
 and consequently,
 this impacts information search and retrieval.
-Consider two of that U.S. National Library of Medicine's
+Consider two of the U.S. National Library of Medicine's
 *PubMed*'s date search operators:
 [Date of Electronic Publication (DEP)][dep] and
 [Date of Publication (DP)][dp].
@@ -361,7 +362,7 @@ The paper was therefore invisible to cancer researchers
 who use MEDLINE and its controlled vocabulary
 to finely control their bibliographic searches.
 Furthermore, since MEDLINE is available on
-multiple database platforms other than *PubMed*'s,
+multiple database platforms other than *PubMed*,
 such as *Ovid*, *Web of Science*,
 *EBSCOhost*, and *ProQuest*,
 we found that for MEDLINE searches
@@ -488,8 +489,8 @@ possible sources of error in meta-analyses which
 need tabular data from multiple sources to synthesize
 statistical calculations.
 Journals could develop better relationships
-with pre-print archives and establish
-a chain of providence that links pre-prints
+with preprint archives and establish
+a chain of providence that links preprints
 to their peer-reviewed outputs.
 Other outputs could be more obviously connected
 to journal articles,
@@ -499,11 +500,10 @@ This paper was written in [Markdown][markdown] and
 synced to a repository on my [GitHub][github]
 account, which could be a legitimate part
 of a modern, digital scholarly workflow
-[@FQMA9CVE#rougier17] .
+[@FQMA9CVE#rougier17; @HRZ2YRRX#takagi22].
 Acceptance rates could become a thing of
 the past since space, theoretically, is unlimited,
 as the journal *eLife* is exploring [@DJH4SHN5#else22].
-
 
 In summary,
 journals could start imagining themselves
@@ -541,7 +541,7 @@ by bundling articles into journal issues.
 A host of problems arises from this that
 impacts what journals publish,
 how metrics are calculated,
-how acceptance rates became prestige markers, and
+how acceptance rates become prestige markers, and
 how information is organized and retrieved.
 
 I offered some solutions to improve
