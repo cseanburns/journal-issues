@@ -10,7 +10,7 @@ keywords: [digital publishing, journals]
 Science depends on a communication system.
 The internet and the web provide the infrastructure
 and tools to support that communicative system.
-Yet despite that they have played a developing role
+Yet despite that they have played a major role
 as a communicative system in the last thirty years,
 they have not truly changed
 how peer-reviewed publishing works.
@@ -55,8 +55,8 @@ by packaging multiple products,
 like journal articles, as one product,
 like journal issues.
 Bundling articles into journal issues also
-made sense given the workflow and
-analog technologies available from
+made sense given the workflow with
+analog technologies available since
 the dawn of the scientific journal up
 to the invention of the internet and the web.
 It simply made sense, in the print era,
@@ -64,7 +64,8 @@ to mail issues (collections of articles)
 rather than to mail individual articles.
 
 The influence of print era
-cannot be underestimated.
+on current peer-reviewed publishing
+practices cannot be underestimated.
 As @8UJPWJE6#bartling14 wrote,
 the publishing culture
 "is affected by the journal system
@@ -95,7 +96,7 @@ they would catch on pretty quickly
 simply because the model is basically the same.
 
 I believe that some of the big problems
-that science has today is the result of mimicking
+that science has today are the result of mimicking
 those print-based workflows within a digital environment.
 The open access movement is concerned with making
 the journal article and other traditional
@@ -113,9 +114,9 @@ fundamentally communicative and about knowledge sharing
 The promise with digital technologies is to
 provide access to more of the research process than
 analog technologies could in the print era.
-However, since we continue to function using 
+However, since journals continue to function using 
 a print era model,
-we will be hard pressed to truly realize the
+they will be hard pressed to truly realize the
 full potential of open science.
 
 There are many ways we can embrace digital
@@ -145,7 +146,7 @@ I also wish to present other ways of
 embrace digital technologies.
 My solutions are only suggestions, and
 I raise them to stimulate discussion.
-However, there two points I want to make.
+However, there are two points I want to make.
 First, the current way we mimic the print era
 in our publication workflow is detrimental
 to the pursuit of not just science but also
@@ -167,12 +168,12 @@ the communication of science,
 and therefore, science itself.
 First, I discuss how the print era of
 bundling created real scarcity and
-how that scarcity became a phantom with
+how that scarcity unjustiably persisted with
 the introduction of digital technologies.
 Second, I discuss how journal publishers
 have created complexity by publishing multiple
 versions of articles that attempt to satisfy
-print era and also digital era workflows.
+print era workflows.
 
 ## Scarcity
 
@@ -186,19 +187,30 @@ that journals could print in a single year.
 This constraint created scarcity, and
 scarcity meant that editors had to make
 decisions about what to print and what not to print.
+Even if the intentions were good,
+this editorial gatekeeping due to scarcity
+probably contributed the increasing
+disappearance of papers
+that report negative results [@7QW5KHFZ#fanelli11] and
+the recognition of a reproducibility crisis in
+some scientific disciplines [@6255BJ8B#nimpf20].
 
-Scarcity creates value, and
-one metric of value is the acceptance rate.
+Scarcity creates value [@TWYYCJXS#lynn91], and
+this is true for scholarly publishing [@IWIMEVLC#taylor12].
+One metric of value is the acceptance rate,
+which functions as a signal of a
+commodity's value and unavailability.
 The lower the acceptance rate,
 the higher the scarcity value.
 The acceptance rate of a journal
 has long been used as an indicator
-of a journal's quality.
+of a journal's perceived quality or its value
+[@USMQ2F8G#rogers07].
 A journal with a 10% acceptance rate
 is held to higher esteem,
 other things being equal,
 than a journal with a 50% acceptance rate.
-The acceptance rate of a journal is
+However, the acceptance rate of a journal is
 a function of the print model [@6V8SGUUC#zuckerman71].
 When space is limited
 (available print pages per year),
@@ -208,10 +220,11 @@ by this constraint, prized (@W28UHWAI#piller22).
 
 Journal-based metrics,
 such as the *Journal Impact Factor (JIF)*,
-are based on the scarcity value.
+are based on this scarcity value.
 This means that bundling by issue
 has influenced the evaluation of scholarship.
-The JIF is a (contested) measure of a journal's impact,
+The JIF is a problematic measure of a journal's impact
+[@V5B8YE59#lariviere18],
 but it is a measure that only makes sense
 when a journal publishes a fairly constant set
 of articles per year.
@@ -220,28 +233,30 @@ in average citation counts,
 whether it is an average over
 a two or five year period,
 it helps to hold at a constant the
-rate of articles published per year.
+rate of citable items (articles) published per year.
 If the rate of articles that are published
 each year varies considerably,
 then it becomes meaningless to use the JIF
-to compare average citation rates across years,
-even for a single journal.
+to compare average citation rates across years.
 
 Seeking higher JIF scores becomes a motivation
 to keep the number of published articles relatively fixed
 at the same number each year.
-The only reason to keep static the number of articles
-each year,
+The only reason to keep relatively static
+the number of articles each year,
 especially with digital only journals,
-or perhaps even why journals keep producing hard copy,
 is because the JIF is determined by
-the ratio of citations to total documents printed
+the ratio of citations to total citable items 
 within a time range.
-If journals increase their publication output,
-then their JIF scores will drop
-until the citations can catch up
-with the new publication rates.
-This has a major impact on the production of knowledge.
+If journals increase their publication output
+by eliminating journal issues and
+not controlling acceptance rates based on print constraints,
+then their JIF scores will drop.
+This may be why why journals keep producing hard copy
+even if it is no longer necessary, or
+continue to bundle articles into issues [@3RZPSVH3#swoger].
+Controlling scarcity has had major impact
+on the production of knowledge.
 It determines what can be printed, and
 it determines how many journals exist.
 Journals are created because of supply and demand.
@@ -252,7 +267,7 @@ less restrictive journals are created to meet demand.
 ## Bibliographic Record
 
 Bundling by journal issue has had ramifications
-on how bibliographic records and information retrieval.
+on bibliographic records and information retrieval.
 Journals that continue to publish hard copy,
 and therefore, publish by issue,
 publish articles as online first or ahead-of-print,
@@ -263,7 +278,7 @@ to journal issues at some point in their future,
 usually when the journal has caught up with
 their backlog.
 The result is that these articles become versioned:
-articles online and fully formatted but ahead of print and
+articles online and fully formatted, but ahead of print and
 not attached to a journal issue,
 and articles in print and attached to an issue.
 This result means that such articles receive at least
@@ -273,10 +288,11 @@ The second date reflects the date of the journal issue.
 The time difference between these two versions may
 be years.
 
-These dates are recorded in the bibliographic records,
+These dates are recorded in the bibliographic record,
 and consequently,
 this impacts information search and retrieval.
-Consider two of PubMed's date search operators:
+Consider two of that U.S. National Library of Medicine's
+*PubMed*'s date search operators:
 [Date of Electronic Publication (DEP)][dep] and
 [Date of Publication (DP)][dp].
 The DEP marks
@@ -287,7 +303,7 @@ was made available online first and
 not attached to an issue.
 The DP "contains the full date on which
 the issue of the journal was published".
-This means that these journal articles
+This means that some journal articles
 may have at least two publication dates.
 For example, suppose an article is accepted
 by some journal and then is quickly made available,
@@ -299,10 +315,10 @@ and when that journal issue is released,
 the article gets the DP.
 The bibliographic record for such an article
 records these two dates.
-Each date may be used in a PubMed search since
-these are different date fields in PubMed search, and
+Each date may be used in a *PubMed* search since
+these are different date fields in *PubMed* search, and
 using one search operator rather than
-an another may mean unintentionally excluding
+the other may mean unintentionally excluding
 works that have already been published.
 
 This is an example of mimicking
@@ -312,30 +328,32 @@ digital-based way of doing things.
 By mimicking a print-based workflow
 in our digital settings,
 extra steps have been added to ill effect.
-In our paper [@H8ZB2U8T#burns21],
+In our paper on the reproducibility
+of search queries across
+different MEDLINE platforms [@H8ZB2U8T#burns21],
 we showed that a paper
 on cancer made available "online first" in 2015
 was not assigned to a journal issue until 2019.
 The online first version of the paper was
-available in PubMed soon after it was available
+available in *PubMed* soon after it was available
 on the journal's website as an online first article,
 but the four year delay to assign the paper to an issue
-meant that the paper was not available in PubMed MEDLINE
-until that issue assignment.
+meant that the paper was not available in *PubMed*'s
+MEDLINE subset for that four years.
 The paper was therefore invisible to cancer researchers
 who use MEDLINE and its controlled vocabulary
-to finely control
-their bibliographic searches.
+to finely control their bibliographic searches.
 Furthermore, since MEDLINE is available on
-multiple platforms other than PubMed's,
-such as Ovid, Web of Science, EBSCOhost, and ProQuest,
+multiple platforms other than *PubMed*'s,
+such as *Ovid*, *Web of Science*,
+*EBSCOhost*, and *ProQuest*,
 we found that for MEDLINE searches
 limited by dates at least four years prior to the searches,
 bibliographic databases constantly varied the number
 of search results over the course of a year of searching
 because of likely changes to the bibliographic records.
 In the print-era,
-these records were largely fixed.
+bibliographic records were largely fixed.
 Because many journals,
 especially those that continue to print hard copy,
 try to have it both ways (print and digital workflows),
@@ -356,8 +374,8 @@ If the journal for the article above ceased mimicking
 a print-based workflow,
 by publishing articles "online first" and then
 later in a journal issue,
-then this problem would not exist.
-It could stop mimicking a print-based
+then this versioning problem would not exist.
+The journal could stop mimicking a print-based
 workflow by ceasing to version their articles based
 on when they become available online,
 as online first articles,
@@ -366,7 +384,7 @@ Issue and volume numbers are
 strictly a print-based artifact,
 put in use to bundle articles into booklets
 for snail-based mail.
-Journals that do not mimic the print-based workflow,
+Journals that do not mimic the print-based workflow
 in this way do not have this problem.
 Often these are journals that were created
 after the web started and that do not print issues.
@@ -378,7 +396,7 @@ general and specialized search engines,
 bibliographic databases,
 and social media [@BBQSSXP9#burns13].
 Few people, it seems, discover new research
-by perusing the table of contents, which again,
+by perusing the table of contents, which again
 are themselves ordered by when articles are
 ready to publish, and not ordered thematically.
 Although websites exist that collate articles by topic,
@@ -403,27 +421,31 @@ By changing to this practice,
 journals could increase search engine
 discoverability and foster browsing and perusal.
 Browsing and perusal have long been just as important
-parts of information retrieval as information search has
+aspects of information retrieval as query-based search has
 been [@ADY7ARVY#bush45h; @R3I5GWL2#lesk12].
 
 In short, journal websites could function
 as true digital libraries instead of mimicking
 the format and practices of hard copy journal issues.
 Just as librarians may assign multiple
-subject headings, and thereby access points,
-to works,
+subject headings, and
+thereby multiple access points to works,
 journal articles could be placed in multiple
 exhibits and collections,
 thereby increasing the number of
-access points and discovery.
-This becomes a matter of curation rather
-than simple bundling based on a first-in,
-first-out print based model.
+access points and discovery to them.
+This becomes a matter of web interface design,
+information architecture, and curation rather
+than simple article bundling based on a first-in,
+first-out table-of-contents print based model.
 Even for journals that still need to
 print hard copy,
 it is still possible for them to give
 primacy to a digital workflow rather
 than a print workflow.
+More pointedly,
+their websites could still function as digital libraries,
+as described above.
 
 We might conclude that many journals,
 as products of the print era or
@@ -434,11 +456,14 @@ The future of scientific publishing could
 be based on curating and creating digital libraries
 of scientific and other scholarly output.
 Other improvements can be made, too.
-Articles themselves can be re-evaluated.
+Articles themselves can be re-evaluated [@SAZLKG8C#somers18].
 Many journals to this day publish tables
-as PDF, JPG, or PNG files,
+in articles as PDF, JPG, or PNG files,
 which makes them largely inaccessible to
-data extraction.
+data extraction and therefore introduces
+a possible source of error in meta-analyses which
+need tabular data from multiple sources to synthesize
+statistical calculations.
 Journals could develop better relationships
 with pre-print archives and establish
 a chain of providence that links pre-prints
@@ -447,9 +472,15 @@ Other outputs could be more obviously connected
 to journal articles,
 such as data journals and
 computational notebooks [@LU43KXNS#perkel18].
+This paper was written in [Markdown][markdown] and
+synced to a repository on my [GitHub][github]
+account, which could be a legitimate part
+of a modern, digital scholarly workflow
+[@FQMA9CVE#rougier17] .
 Acceptance rates could become a thing of
 the past since space, theoretically, is unlimited,
 as the journal *eLife* is exploring [@DJH4SHN5#else22].
+
 
 In summary,
 journals could start imagining themselves
@@ -462,7 +493,7 @@ Current scholarly publishing is
 woefully outdated and remains loyal
 to print era workflows and processes.
 By embracing the digital,
-we can multiple publishing dates,
+we can avoid multiple publishing dates,
 give primacy to HTML output,
 make articles sources of data
 (machine readable) and
@@ -480,7 +511,7 @@ the current communication system is largely
 based on the internet and the web.
 Despite that, much of scholarly publishing
 continues to function as if it were still
-the print era.
+in the print era.
 This is evident in the way journals
 continue to publish, for example,
 by bundling articles into journal issues.
@@ -490,53 +521,46 @@ how metrics are calculated,
 how acceptance rates became prestige markers, and
 how information is organized and retrieved.
 
-I offered several solutions to improve
+I offered some solutions to improve
 the way science and scholarship is published.
 My goal is to foster discussion since
 actual solutions depend on the needs of the
-community and not on the desiderata of
+communities involved and not on the desiderata of
 any specific individual.
 However, I do believe that my main solution,
 re-conceiving the journal as a digital library,
 is more aligned with what the internet and
-the web affords and that continuing to apply
+the web affords, and that continuing to apply
 print era workflows and practices to scholarly
 publishing is harmful.
 
 In the end, solutions must be rational, evidence-based,
 and solved collectively.
-The internet and the web have been disruptive, and
+The internet and the web have been disruptive, but
 the transition to digital publishing has
 been slow and left to individual entities to make progress.
 The rush to publish may leave us un-reflective on
-our practices,
-and I sincerely believe that we should be always asking
+our practices.
+I sincerely believe that we should always ask
 ourselves some basic questions:
-What best serves scholarly communication?
-Or the dissemination of scholarly output?
+What best serves scholarly communication
+and knowledge sharing?
 Does our current system support what is best?
 How does 'what is best?' vary by discipline?
 
 When digital publishing became available,
 the affordances offered by print could be
-copied over to the online system
-because an online system can encompass and
-include print-based affordances.
-But digital publishing can afford much more,
-and it is a result of our lack of collective
-imagination to adopt these new affordances
-as well as institutional pressures,
-like tenure and grant funding, and
-self-interest,
-like number of papers published,
-number of citations received, and
-number of "high impact" journals to publish in,
-and market forces, that do not incentive
-journal publishers to adopt what's best for science,
-to keep doing the same thing we did in the 19th
-and 20th centuries.
+copied over to manuscript management online systems.
+This is because these online systems
+and digital technologies are flexible
+and can encompass and mimic
+print-based affordances.
+But digital publishing can afford much more and
+can better serve science, scholarship, and knowledge sharing.
 
 # References
 
 [dep]:https://www.nlm.nih.gov/bsd/mms/medlineelements.html#dep
 [dp]:https://www.nlm.nih.gov/bsd/mms/medlineelements.html#dp
+[github]:https://github.com/cseanburns/journal-issues
+[markdown]:https://en.wikipedia.org/wiki/Markdown
