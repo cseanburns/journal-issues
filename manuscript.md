@@ -3,6 +3,21 @@ title: The Issues with Journal Issues
 author: C. Sean Burns
 date: 2022-12-25
 keywords: [digital publishing, journals]
+abstract: |
+  Science depends on a communication system, and today
+  that is largely provided by digital technologies such
+  as the internet and web.
+  Despite that digital technologies provide the
+  infrastructure for that communication system,
+  peer-reviewed journals continue to mimic workflows
+  and processes from the print era. This paper focuses on
+  one artifact from the print era, the journal issue,
+  and describes how this artifact has been detrimental
+  the communication of science and therefore to
+  science itself. To replace the journal issue,
+  this paper argues that scholarly publishing and journals
+  could create digital libraries to present scholarly
+  output.
 ---
 
 # Introduction
