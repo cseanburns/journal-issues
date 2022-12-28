@@ -16,7 +16,8 @@ abstract: |
   the communication of science and therefore to
   science itself. To replace the journal issue,
   this paper argues that scholarly publishing and journals
-  could create digital libraries to present scholarly
+  could more fully embrace digital technolgies by
+  creating digital libraries to present scholarly
   output.
 ---
 
