@@ -38,8 +38,8 @@ various scholarly and scientific discussions,
 mostly work through email and online systems
 that manage the peer review and publication processes.
 These systems mimic the print-based workflows
-journals used before the internet and the web.
-They have not been transformative even though
+journals used before the internet and the web, but
+these systems have not been transformative even though
 they involve digital technologies.
 Authors may type papers in
 word processing applications,
@@ -172,7 +172,7 @@ Second, and more broadly,
 instead of leaving progress to random agents,
 we should collectively and rationally
 examine our ways in order
-to imagine and enact improvements.
+to imagine and enact improvements [@QLYNNRZU#kun18].
 
 # The Journal Issue
 
@@ -285,8 +285,9 @@ less restrictive journals are created to meet demand.
 ## Bibliographic Record
 
 Bundling by journal issue has had ramifications
-on bibliographic records, the organization of information,
-and information retrieval.
+on bibliographic data,
+the records used to organize information and
+aid information retrieval.
 Journals that continue to publish hard copy,
 and therefore, publish by issue,
 publish articles as online-first or as ahead-of-print articles,
@@ -295,10 +296,10 @@ These online-first articles become attached
 to journal issues at some point in their future,
 usually when the journal has caught up with
 their backlog.
-The result is that these articles become versioned:
-articles online and fully formatted, but ahead-of-print and
-not attached to a journal issue,
-and articles in print and attached to an issue.
+The result is that these articles become versioned.
+The versioning ranges from articles that are online-first,
+fully formatted, and not attached to a journal issue,
+to articles that become attached to a journal issue.
 This result means that such articles receive at least
 two publication dates.
 The first date reflects the online-first version.
@@ -325,7 +326,7 @@ This means that some journal articles
 may have at least two publication dates.
 For example, suppose an article is accepted
 by some journal and then is quickly made available,
-generally as an early access or online-first article,
+generally as an early-access or online-first article,
 on the journal's website.
 The date that it is made available is the DEP.
 Later, the article is assigned to a journal issue,
@@ -372,7 +373,8 @@ of search results over the course of a year of searching
 because of likely changes to the bibliographic records.
 This is surprising.
 In the print-era,
-bibliographic records were largely fixed.
+bibliographic records were largely fixed
+(the records were printed as hard copy).
 Because many journals,
 especially those that continue to print hard copy,
 try to have it both ways (print and digital workflows),
@@ -382,7 +384,7 @@ This kind of complication is strictly the result of
 cross-walking a print-based workflow onto
 a digital-based workflow.
 
-It would be incorrect to assign responsibility
+It would be incorrect to assign fault 
 to the National Library of Medicine's method of
 managing bibliographic records in PubMed and MEDLINE.
 Librarians' roles are to catalog, document, and organize
@@ -405,21 +407,36 @@ strictly a print-based artifact,
 put in use to bundle articles into booklets
 for snail-based mail.
 Journals that do not mimic the print-based workflow
-in this way do not have this problem.
+in this way do not have this problem and
+may avoid the illusion of scarcity that
+was real in the print era.
 Often these are journals that were created
 after the web started and that do not print issues.
 
 # Solutions
 
+Up to this point
+I have described some problems that are caused
+by journals mimicking an outdated print-based workflow and
+how these print-based systems are harmful to science and
+its dissemination.
+In this section,
+I describe solutions that align with digital
+publishing.
+These solutions would
+benefit the dissemination of science and
+therefore science itself.
+
 Literature is discovered today largely through
 general and specialized search engines,
 bibliographic databases,
-and social media [@BBQSSXP9#burns13].
+and social media [@5SLZCERT#blankstein22].
 Few people, it seems, discover new research
 by perusing the table of contents, which again
 are themselves ordered by when articles are
 ready to publish, and not ordered thematically or topically.
-Although websites exist that collate articles by topic,
+Although websites exist that
+collate articles by topic [@VSAJQIYL#hull08],
 there is no reason for journals to
 continue the practice of creating tables of contents.
 It is a fundamentally poor way to
@@ -448,7 +465,8 @@ been [@ADY7ARVY#bush45h; @R3I5GWL2#lesk12].
 
 In short, journal websites could function
 as true digital libraries instead of mimicking
-the format and practices of hard copy journal issues.
+the format and practices of
+hard copy journal issues and publishing.
 Just as librarians assign multiple
 subject headings, and thereby provide
 multiple access points, to works,
@@ -460,13 +478,13 @@ This becomes a matter of web interface design,
 information architecture, and curation rather
 than simple article bundling based on a first-in,
 first-out table of contents print based model.
-Even for journals that still need to
+Even for journals that need to
 print hard copy,
 it is still possible for them to give
 primacy to a digital workflow rather
 than a print workflow.
 More pointedly,
-their websites could still function as digital libraries,
+their websites could function as digital libraries,
 as described above,
 even if they continue to print journal issues
 in the traditional way.
@@ -502,30 +520,8 @@ account, which could be a legitimate part
 of a modern, digital scholarly workflow
 [@FQMA9CVE#rougier17; @HRZ2YRRX#takagi22].
 Acceptance rates could become a thing of
-the past since space, theoretically, is unlimited,
+the past since digital space, theoretically, is unlimited,
 as the journal *eLife* is exploring [@DJH4SHN5#else22].
-
-In summary,
-journals could start imagining themselves
-as part of the larger scholarly web,
-which itself was designed to be interconnected,
-instead of designing their sites as
-silos that consider the journal article
-as the final, definitive, machine-*unreadable* end product.
-Current scholarly publishing is
-woefully outdated and remains loyal
-to print era workflows and processes.
-By embracing the digital,
-we can avoid multiple publishing dates,
-give primacy to HTML output,
-make articles sources of data
-(machine readable) and
-not simply sources for reading,
-create greater interoperability, and
-eliminate the requirement to submit
-manuscripts as word processing files [@LBXUS5ZD#healy19].
-With these and other improvements,
-such a system would be truly knowledge producing.
 
 # Conclusion
 
@@ -572,13 +568,42 @@ How does 'what is best' vary by discipline?
 
 When digital publishing became available,
 the affordances offered by print could be
-copied over to manuscript management online systems.
+copied over to online systems that manage
+manuscript submissions.
 This is because these online systems
 and digital technologies are flexible
 and can encompass and mimic
 print-based affordances.
 But digital publishing can afford much more and
 can better serve science, scholarship, and knowledge sharing.
+
+In summary,
+journals could start imagining themselves
+as part of the larger scholarly web,
+which itself was designed to be interconnected,
+instead of designing their sites as
+silos that consider the journal article
+as the final, definitive, machine-*unreadable* end product.
+Current scholarly publishing is
+woefully outdated and remains loyal
+to print era workflows and processes.
+By embracing the digital,
+we can avoid multiple publishing dates,
+give primacy to HTML output,
+make articles sources of data
+(machine readable) and
+not simply sources for reading,
+create greater interoperability, and
+eliminate the requirement to submit
+manuscripts as word processing files [@LBXUS5ZD#healy19].
+With these and other improvements,
+such a system would be truly knowledge producing.
+
+## Acknowledgments
+
+The author would like to thank Dr. Daniela Di Giacomo for
+her comments on a draft that helped improve this
+manuscript.
 
 # References
 
