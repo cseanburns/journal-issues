@@ -3,7 +3,7 @@ title: The Issues with Journal Issues
 subtitle: Let Journals Be Digital Libraries
 author: C. Sean Burns
 date: 2022-12-31
-keywords: [digital publishing, journals]
+keywords: [journals, digital publishing, scholarly publishing, open science]
 abstract: |
   Science depends on a communication system, and today
   that is largely provided by digital technologies such
@@ -18,8 +18,8 @@ abstract: |
   science itself. To replace the journal issue,
   this paper argues that scholarly publishing and journals
   could more fully embrace digital technologies by
-  creating digital libraries to present scholarly
-  output.
+  creating digital libraries to present and organize
+  scholarly output.
 ---
 
 # Introduction
@@ -29,9 +29,9 @@ The internet and the web provide the infrastructure
 and tools to support that communicative system.
 Yet despite the fact that they have played a major role
 as a communicative system in the last thirty years,
-they have not truly changed
+the internet and the web have not truly changed
 how peer-reviewed publishing works.
-Instead, we continue to operate largely on
+Instead, journals continue to operate largely on
 a print-based workflow even if we,
 the authors and editors who contribute to our
 various scholarly and scientific discussions,
@@ -88,7 +88,7 @@ As @8UJPWJE6#bartling14 wrote,
 the publishing culture
 "is affected by the journal system
 created when results simply had
-to be printed on paper" and that now,
+to be printed on paper," and that now,
 despite having digital affordances at our
 disposal that are limited only by
 our imagination,
@@ -105,13 +105,13 @@ Although we have gone digital,
 we have gone digital superficially.
 The technologies and workflows we use now
 are merely simulacra of what we used
-before the internet and the web.
+before the internet and the web [@BR5CJQ3N#burns21].
 I find it easy to believe that if we transported
 a scientist from the 1970s to today,
 and introduced them to the processes we
 use in 2023,
 they would catch on pretty quickly
-simply because the model is basically the same.
+because the model is plainly the same.
 
 I believe that some of the big problems
 that science has today are the result of mimicking
@@ -123,7 +123,7 @@ The open science movement goes further.
 It is an attempt to make
 the entire research process more transparent.
 This is done by disseminating and communicating
-as much of the workflow as possible,
+as much of the research workflow as possible,
 which was not possible at scale in the print era.
 Although there have always been barriers to access,
 the goal of publishing research has long been
@@ -169,10 +169,14 @@ in our publication workflow is detrimental
 to the pursuit of not just science but also
 to the pursuit of open science.
 Second, and more broadly,
-instead of leaving progress to random agents,
+instead of leaving progress in publishing
+to random agents,
 we should collectively and rationally
 examine our ways in order
 to imagine and enact improvements [@QLYNNRZU#kun18].
+As a proposal, I offer for discussion the idea
+that journals should re-envision themselves
+as digital libraries instead of as periodicals.
 
 # The Journal Issue
 
@@ -250,7 +254,8 @@ in average citation counts,
 whether it is an average over
 a two or five year period,
 it helps to hold at a constant the
-rate of citable items (articles) published per year.
+rate of citable items (e.g., articles)
+published per year.
 If the rate of articles that are published
 each year varies considerably,
 then it becomes meaningless to use the JIF
@@ -272,7 +277,9 @@ then their JIF scores will drop.
 This may be why journals keep producing hard copy
 even if it is no longer necessary, or
 continue to bundle articles into issues [@3RZPSVH3#swoger].
-Controlling scarcity has had a major impact
+
+Outside of the metrics issues,
+controlling scarcity has had a major impact
 on the production of knowledge.
 It determines what can be printed, and
 it determines how many journals exist.
@@ -290,7 +297,8 @@ the records used to organize information and
 aid information retrieval.
 Journals that continue to publish hard copy,
 and therefore, publish by issue,
-publish articles as online-first or as ahead-of-print articles,
+often publish articles as online-first or
+as ahead-of-print articles,
 and think this is satisfactory [@W28UHWAI#piller22].
 These online-first articles become attached
 to journal issues at some point in their future,
@@ -325,8 +333,8 @@ the issue of the journal was published".
 This means that some journal articles
 may have at least two publication dates.
 For example, suppose an article is accepted
-by some journal and then is quickly made available,
-generally as an early-access or online-first article,
+by some journal and then is quickly made available
+as an early-access or online-first article
 on the journal's website.
 The date that it is made available is the DEP.
 Later, the article is assigned to a journal issue,
@@ -402,6 +410,9 @@ workflow by ceasing to version their articles based
 on when they become available online,
 as online-first articles,
 and then by issue and volume numbers.
+Instead, they can publish after
+peer-review and formatting and
+drop the production of journal issues.
 Issue and volume numbers are
 strictly a print-based artifact,
 put in use to bundle articles into booklets
@@ -411,7 +422,8 @@ in this way do not have this problem and
 may avoid the illusion of scarcity that
 was real in the print era.
 Often these are journals that were created
-after the web started and that do not print issues.
+after the web started and that do not print issues
+(e.g., consider PeerJ.com).
 
 # Solutions
 
@@ -428,7 +440,7 @@ benefit the dissemination of science and
 therefore science itself.
 
 Literature is discovered today largely through
-general and specialized search engines,
+general and special search engines,
 bibliographic databases,
 and social media [@5SLZCERT#blankstein22].
 Few people, it seems, discover new research
@@ -450,7 +462,7 @@ They can become true digital libraries.
 Digital libraries have the advantage of offering
 multiple ways to organize and classify the works
 in their collections
-(as opposed to volumes), and
+(as opposed to issues and volumes), and
 this creates opportunities to forge and design
 web interfaces that match those collections [@HKNRR9KR#pomerantz07].
 For example, articles can be assigned to
@@ -495,7 +507,7 @@ as adopters of print workflows,
 as most continue to exist today,
 are themselves obsolete.
 The future of scientific publishing could
-be based on curating and creating digital libraries
+be based on creating and curating digital libraries
 of scientific and other scholarly output.
 Other improvements can be made, too.
 Articles themselves can be re-evaluated [@SAZLKG8C#somers18].
@@ -510,11 +522,14 @@ Journals could develop better relationships
 with preprint archives and establish
 a chain of providence that links preprints
 to their peer-reviewed outputs.
+Those pre-prints could even become
+part of the digital library's collection.
 Other outputs could be more obviously connected
 to journal articles,
 such as data journals and
 computational notebooks [@LU43KXNS#perkel18].
-This paper was written in [Markdown][markdown] and
+For example, this paper was written
+in [Markdown][markdown] and
 synced to a repository on my [GitHub][github]
 account, which could be a legitimate part
 of a modern, digital scholarly workflow
@@ -537,8 +552,9 @@ by bundling articles into journal issues.
 A host of problems arises from this that
 impacts what journals publish,
 how metrics are calculated,
-how acceptance rates become prestige markers, and
-how information is organized and retrieved.
+how acceptance rates become prestige markers,
+how information is organized and retrieved, and
+how knowledge is shared.
 
 I offered some solutions to improve
 the way science and scholarship is published.
@@ -592,7 +608,7 @@ we can avoid multiple publishing dates,
 give primacy to HTML output,
 make articles sources of data
 (machine readable) and
-not simply sources for reading,
+not merely sources for reading,
 create greater interoperability, and
 eliminate the requirement to submit
 manuscripts as word processing files [@LBXUS5ZD#healy19].
