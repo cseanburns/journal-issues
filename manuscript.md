@@ -2,7 +2,7 @@
 title: The Issues with Journal Issues
 subtitle: Let Journals Be Digital Libraries
 author: C. Sean Burns
-date: 2022-12-31
+date: 2022-12-30
 keywords: [journals, digital publishing, scholarly publishing, open science]
 abstract: |
   Science depends on a communication system, and today
@@ -235,7 +235,7 @@ However, the acceptance rate of a journal is
 a function of the print model [@6V8SGUUC#zuckerman71].
 When space is limited
 (available print pages per year),
-i.e., a journal has page constraints to consider,
+i.e., when a journal has page constraints to consider,
 then its real estate becomes,
 by this constraint, prized [@W28UHWAI#piller22]. 
 
@@ -289,7 +289,7 @@ offers less space,
 then it means that other,
 less restrictive journals are created to meet demand.
 
-## Bibliographic Record
+## The Bibliographic Record
 
 Bundling by journal issue has had ramifications
 on bibliographic data,
@@ -319,7 +319,7 @@ These dates are recorded in the bibliographic record,
 and consequently,
 this impacts information search and retrieval.
 Consider two of the U.S. National Library of Medicine's
-*PubMed*'s date search operators:
+*PubMed*'s date search fields:
 [Date of Electronic Publication (DEP)][dep] and
 [Date of Publication (DP)][dp].
 The DEP marks
@@ -489,7 +489,7 @@ access points and discovery of them.
 This becomes a matter of web interface design,
 information architecture, and curation rather
 than simple article bundling based on a first-in,
-first-out table of contents print based model.
+first-out table of contents print-based model.
 Even for journals that need to
 print hard copy,
 it is still possible for them to give
@@ -514,7 +514,7 @@ Articles themselves can be re-evaluated [@SAZLKG8C#somers18].
 Many journals to this day publish tables
 in articles as PDF, JPG, or PNG files,
 which makes them largely inaccessible to
-data extraction and therefore introduce
+data extraction and introduces
 possible sources of error in meta-analyses which
 need tabular data from multiple sources to synthesize
 statistical calculations.
@@ -620,6 +620,10 @@ such a system would be truly knowledge producing.
 The author would like to thank Dr. Daniela Di Giacomo for
 her comments on a draft that helped improve this
 manuscript.
+
+## Conflicts of Interest
+
+The authors declare no conflict of interest.
 
 # References
 
