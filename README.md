@@ -1,8 +1,15 @@
 # journal-issues
 
+Published as:
+
+Burns, C.S. (2023). The issues with journal issues: Let journals be digital libraries. *Publications, 11*(1).
+[https://doi.org/10.3390/publications11010007](https://doi.org/10.3390/publications11010007)
+Preprint:
+[https://doi.org/10.48550/arXiv.2301.00832](https://doi.org/10.48550/arXiv.2301.00832)
+
 This repo contains a manuscript on journal issues,
 digital affordances, and open science
-to be submitted to the journal
+that was submitted to the journal
 [Publications](https://www.mdpi.com/journal/publications) as
 part of a 10th anniversary special issue of that journal.
 
